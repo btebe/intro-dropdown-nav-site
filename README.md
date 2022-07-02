@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/btebe/intro-dropdown-nav-site)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/btebe/intro-dropdown-nav-site)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
 
