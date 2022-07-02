@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/btebe/intro-dropdown-nav-site)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://soft-semolina-e82a88.netlify.app/)
 
 ## My process
 
